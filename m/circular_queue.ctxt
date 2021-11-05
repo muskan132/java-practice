@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=circular_queue
+comment1.params=x
+comment1.target=void\ add(int)
+comment2.params=
+comment2.target=void\ remove()
+comment3.params=
+comment3.target=void\ count()
+comment4.params=
+comment4.target=void\ print()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

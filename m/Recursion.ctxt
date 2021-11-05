@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Recursion
+comment1.params=n
+comment1.target=int\ fact(int)
+comment2.params=n
+comment2.target=int\ fibro(int)
+comment3.params=num\ power
+comment3.target=float\ raise(float,\ int)
+comment4.params=n
+comment4.target=int\ prodeven(int)
+comment5.params=n\ c
+comment5.target=int\ reverse(int,\ int)
+comment6.params=a\ b
+comment6.target=int\ gcd(int,\ int)
+comment7.params=n
+comment7.target=int\ decbin(int)
+comment8.params=a\ b\ c\ d\ e
+comment8.target=void\ main(int,\ int,\ int,\ int,\ float)
+numComments=9
